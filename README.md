@@ -5,7 +5,7 @@ A personal profile page built with pure HTML — no CSS, no frameworks. Includes
 
 **Tech:** HTML
 
-<img src="Images/my-first-website.png" width="800" Height="400"/>
+<img src="Images/my-first-website.png" width="800" height="400"/>
 
 ---
 
@@ -14,7 +14,7 @@ An upgraded version of the profile page, styled with custom CSS. Features a dark
 
 **Tech:** HTML, CSS
 
-<img src="Images/make-it-beautiful.png" width="800"/>
+<img src="Images/make-it-beautiful.png" width="800" height="400"/>
 ---
 
 ### 3. 🖥️ Responsive Hero Page
@@ -22,7 +22,7 @@ A landing page with a navbar and a two-column hero section (text + image) built 
 
 **Tech:** HTML, CSS
 
-<img src="Images/responsive-hero-page.png" width="800"/>
+<img src="Images/responsive-hero-page.png" width="800" height="400"/>
 ---
 
 ### 4. 🧮 Console Calculator
@@ -30,7 +30,7 @@ A JavaScript exercise that prompts the user for two numbers and logs five arithm
 
 **Tech:** HTML, JavaScript
 
-<img src="Images/console-calculator.png" width="800"/>
+<img src="Images/console-calculator.png" width="800" height="400"/>
 ---
 
 ### 5. 📋 Interactive Form
@@ -38,7 +38,7 @@ A student registration form with live client-side validation. Checks for empty f
 
 **Tech:** HTML, CSS, JavaScript
 
-<img src="Images/interactive-form.png" width="800"/>
+<img src="Images/interactive-form.png" width="800" height="400"/>
 ---
 
 ### 6. 🎓 Student Manager
@@ -46,7 +46,7 @@ A plain JavaScript script that stores student data (names and marks) in an array
 
 **Tech:** JavaScript
 
-<img src="Images/student-manager.png" width="800"/>
+<img src="Images/student-manager.png" width="800" height="400"/>
 ---
 
 ### 7. 🌐 Hello Server
@@ -54,7 +54,7 @@ A minimal Node.js + Express server with three routes: Home (/), About (/about), 
 
 **Tech:** Node.js, Express
 
-<img src="Images/hello-server.jpeg" width="800"/>
+<img src="Images/hello-server.jpeg" width="800" height="400"/>
 ---
 
 ### 8. ✅ Dynamic List App
@@ -62,7 +62,7 @@ A React task manager where users can type a task, click Add to append it to the 
 
 **Tech:** React
 
-<img src="Images/dynamic-list-app.png" width="800"/>
+<img src="Images/dynamic-list-app.png" width="800" height="400"/>
 ---
 
 ### 9. 😊 Mood Tracker
@@ -70,7 +70,7 @@ A React app with three mood buttons (Happy, Sad, Angry). Clicking a button updat
 
 **Tech:** React
 
-<img src="Images/mood-tracker.jpeg" width="800"/>
+<img src="Images/mood-tracker.jpeg" width="800" height="400"/>
 ---
 
 ### 10. 🛍️ Product Listing UI
@@ -78,7 +78,7 @@ A mini e-commerce product listing page with search, max-price filter, and catego
 
 **Tech:** React
 
-<img src="Images/product-listing-ui.png" width="800"/>
+<img src="Images/product-listing-ui.png" width="800" height="400"/>
 ---
 
 ### 11. 🗺️ Multi-Page App
@@ -86,7 +86,7 @@ A multi-page personal portfolio SPA with five routes — Home, About, Hobbies, S
 
 **Tech:** React, React Router DOM
 
-<img src="Images/multi-page-app.jpeg" width="800"/>
+<img src="Images/multi-page-app.jpeg" width="800" height="400"/>
 ---
 
 ### 12. 🔐 Smart Signup Form
@@ -94,7 +94,7 @@ A two-page React app with a signup form and a dashboard. The form validates emai
 
 **Tech:** React, React Router DOM
 
-<img src="Images/smart-signup-form.jpeg" width="800"/>
+<img src="Images/smart-signup-form.jpeg" width="800" height="400"/>
 ---
 
 ### 13. 🌤️ Weather Dashboard
@@ -102,7 +102,7 @@ A React app that fetches live weather data from the OpenWeatherMap API. Users ca
 
 **Tech:** React, OpenWeatherMap API
 
-<img src="Images/weather-dashboard.png" width="800"/>
+<img src="Images/weather-dashboard.png" width="800" height="400"/>
 ---
 
 ## 👤 Author
