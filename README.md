@@ -5,7 +5,7 @@ A personal profile page built with pure HTML — no CSS, no frameworks. Includes
 
 **Tech:** HTML
 
-<img src="Images/my-first-website.png" width="800"/>
+<img src="Images/my-first-website.png" width="800" Height="400"/>
 
 ---
 
