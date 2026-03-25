@@ -2,6 +2,7 @@
 
 ### 1. 🌐 My First Website
 A personal profile page built with pure HTML — no CSS, no frameworks. Includes a hero header, navigation links, About Me section, hobbies list, favourite subjects, and social links (GitHub, LinkedIn, Email, Portfolio).
+<img src="images/my-first-website.png" width="600"/>
 
 **Tech:** HTML
 
