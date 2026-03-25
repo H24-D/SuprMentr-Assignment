@@ -1,0 +1,39 @@
+/* Signup */
+.signup-container {
+  max-width: 320px;
+  margin: 100px auto;
+  text-align: center;
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px;
+  width: 100%;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Dashboard */
+.dashboard {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.user-card {
+  margin: 20px auto;
+  padding: 20px;
+  width: 300px;
+  background: #e8f5e9;
+  border-radius: 10px;
+}
