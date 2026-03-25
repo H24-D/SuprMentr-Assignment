@@ -22,7 +22,7 @@ A landing page with a navbar and a two-column hero section (text + image) built 
 
 **Tech:** HTML, CSS
 
-<img src="Images/responsive-hero-page.png" width="800" height="400"/>
+<img src="Images/responsive-hero-page.png" width="800" />
 ---
 
 ### 4. 🧮 Console Calculator
@@ -54,7 +54,7 @@ A minimal Node.js + Express server with three routes: Home (/), About (/about), 
 
 **Tech:** Node.js, Express
 
-<img src="Images/hello-server.jpeg" width="800" height="400"/>
+<img src="Images/hello-server.jpeg" width="800" />
 ---
 
 ### 8. ✅ Dynamic List App
@@ -70,7 +70,7 @@ A React app with three mood buttons (Happy, Sad, Angry). Clicking a button updat
 
 **Tech:** React
 
-<img src="Images/mood-tracker.jpeg" width="800" height="400"/>
+<img src="Images/mood-tracker.jpeg" width="800" />
 ---
 
 ### 10. 🛍️ Product Listing UI
@@ -86,7 +86,7 @@ A multi-page personal portfolio SPA with five routes — Home, About, Hobbies, S
 
 **Tech:** React, React Router DOM
 
-<img src="Images/multi-page-app.jpeg" width="800" height="400"/>
+<img src="Images/multi-page-app.jpeg" width="800" />
 ---
 
 ### 12. 🔐 Smart Signup Form
@@ -94,7 +94,7 @@ A two-page React app with a signup form and a dashboard. The form validates emai
 
 **Tech:** React, React Router DOM
 
-<img src="Images/smart-signup-form.jpeg" width="800" height="400"/>
+<img src="Images/smart-signup-form.jpeg" width="800" />
 ---
 
 ### 13. 🌤️ Weather Dashboard
